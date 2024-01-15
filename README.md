@@ -1,5 +1,8 @@
 # STOCK-MARKET-REAL-TIME-DATA-ENGINEERING-PROJECT-
 
+**Architecture**
+<img width="620" alt="image" src="https://github.com/dedhiaraj2002/STOCK-MARKET-REAL-TIME-DATA-ENGINEERING-PROJECT-/assets/58104026/c2048deb-9955-496e-ad1d-be844dfacb3f">
+
 **Project: stock-market-kafka-data-engineering-project**
 
 This project is a comprehensive end-to-end data engineering endeavor designed for the analysis of real-time stock market data. Leveraging a sophisticated technology stack, including Python, AWS, Apache Kafka, Glue, Athena, and SQL, the initiative seamlessly integrates various components to create a robust data processing pipeline.
