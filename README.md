@@ -1,6 +1,6 @@
 # STOCK-MARKET-REAL-TIME-DATA-ENGINEERING-PROJECT-
 
-**Architecture**
+#Architecture
 
 <img width="620" alt="image" src="https://github.com/dedhiaraj2002/STOCK-MARKET-REAL-TIME-DATA-ENGINEERING-PROJECT-/assets/58104026/c2048deb-9955-496e-ad1d-be844dfacb3f">
 
